@@ -1,4 +1,4 @@
-# DeFi Arbitrage Bot (Backend Service)
+# DeFi Arbitrage Bot 
 
 ### What this project does
 - **Fetches token prices** in real-time from multiple Uniswap V2–compatible DEXs: Uniswap V2, Sushiswap, PancakeSwap V2, and also Uniswap V3 via the Quoter.
